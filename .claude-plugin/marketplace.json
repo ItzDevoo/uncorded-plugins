@@ -16,7 +16,7 @@
         "repo": "ItzDevoo/uncorded-claude-channel"
       },
       "description": "Chat with your Claude Code session from UnCorded DMs and server channels.\nOwner-only access \u2014 your bot, your Claude, only you.",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "author": { "name": "ItzDevoo" },
       "category": "messaging",
       "tags": ["uncorded", "channel", "chat", "mcp"],
