@@ -1,0 +1,27 @@
+﻿{
+  "name": "uncorded-plugins",
+  "owner": {
+    "name": "ItzDevoo",
+    "email": "itzdevoo.dev@gmail.com"
+  },
+  "metadata": {
+    "description": "Official UnCorded plugins for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "uncorded",
+      "source": {
+        "source": "github",
+        "repo": "ItzDevoo/uncorded-claude-channel"
+      },
+      "description": "Chat with your Claude Code session from UnCorded DMs and server channels.
+Owner-only access — your bot, your Claude, only you.",
+      "version": "0.0.1",
+      "author": { "name": "ItzDevoo" },
+      "category": "messaging",
+      "tags": ["uncorded", "channel", "chat", "mcp"],
+      "keywords": ["uncorded", "messaging", "channel"]
+    }
+  ]
+}
